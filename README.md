@@ -71,7 +71,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   
   <figure style="position: relative; margin: 10px;">
     <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png" width="200" alt="Image 3">
-    <figcaption style="position: absolute; top: 0; left: 50%; transform: translateX(-50%);">Image 3</figcaption>
+    <figcaption style="position: center; top: 0; left: 50%; transform: translateX(-50%);">Image 3</figcaption>
   </figure>
 </div>
 
