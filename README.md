@@ -25,15 +25,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
 
-[App GIF preview]](https://github.com/ba-00001/WORDLE_IOS/blob/main/wordle_ios.gif).{: width="200px" }
+![App GIF preview](https://github.com/ba-00001/WORDLE_IOS/blob/main/wordle_ios.gif){: width="200px" }
 
 ## App Preview
 
-![Wordle App Icon](https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png){: width="100px" }
-![App Launch screen](https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_LAUNCH_SCREEN.png){: width="100px" }
-![App preview](https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_APP_PREVIEW.png){: width="100px" }
+![Wordle App Icon](https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png){ width=100px }
+![App Launch screen](https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_LAUNCH_SCREEN.png){ width=100px }
+![App preview](https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_APP_PREVIEW.png){ width=100px }
 
 
 ## Notes
