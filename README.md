@@ -30,14 +30,6 @@ The following **additional** features are implemented:
 
 ## App Preview
 
-<!-- Single row of images -->
-<p align="center">
-  <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png" width="200" alt="Wordle App Icon">
-  <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_LAUNCH_SCREEN.png" width="200" alt="App Launch screen">
-  <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_APP_PREVIEW.png" width="200" alt="App preview">
-</p>
-
-
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
