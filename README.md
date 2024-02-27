@@ -25,7 +25,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
 
 ![App GIF preview](https://github.com/ba-00001/WORDLE_IOS/blob/main/wordle_ios.gif){: width="200px" }
 
@@ -60,7 +59,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+**Lessons Learned:**
+   - Learned the importance of modularizing code to simplify complex functionalities.
+   - Gained insights into effective debugging techniques for intricate data-handling processes.
 
 ## License
 
