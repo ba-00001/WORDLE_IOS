@@ -39,6 +39,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 </p>
 
 
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png" width="200" alt="Image 1">
+    <figcaption>Wordle App Icon</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_LAUNCH_SCREEN.png" width="200" alt="Image 2">
+    <figcaption>Image 2</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_APP_PREVIEW.png" width="200" alt="Image 3">
+    <figcaption>Image 3</figcaption>
+  </figure>
+</div>
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
